@@ -1,0 +1,80 @@
+logo=./logo.svg
+images=./img
+navbar_logo= ./navbar_logo.jpg
+icon=./logo.svg
+image carousel=./image_carousel
+
+
+#call now=tel:+919747461300
+#flowtting overly whatsapp=https://wa.me/919747461300
+#google map location=https://maps.app.goo.gl/gtvLxSSStX2U8yWe8?g_st=ac
+
+#Contact Us
++91 9747461300
+support@bettercarefacility.com
+Kochi, Kerala, India
+WhatsApp Chat=https://wa.me/919747461300
+google map location=https://maps.app.goo.gl/gtvLxSSStX2U8yWe8?g_st=ac
+
+#Time : 9:30 to 5 (mon to Fri)
+9:30 to 1 sat
+
+#Request a Service
+Your Name
+Phone Number
+Service Needed[AC Duct Cleaning,AC Disinfection / Sanitization,General AC Service & Maintenance]
+Message:
+submit:{to whatsapp, example:https://api.whatsapp.com/send?phone=919747461300&text=Name:%20%5BYour%20Name%5D%0APhone:%20%5BYour%20Phone%20Number%5D%0AService%20Needed:%20AC%20Duct%20Cleaning,%20AC%20Disinfection%20/%20Sanitization,%20General%20AC%20Service%20&%20Maintenance%0AMessage:%20%5BYour%20Messagel}
+
+
+Style:
+- Clean, corporate, and trustworthy
+- Use a strong navy blue (#0B2A4A) and fresh green (#6DBE45) as primary colors
+
+
+#Years of Expert : 18
+#Service Coverage: Ekm,clt,tvm
+
+#HOME
+
+Breathe Pure. Live Better.
+
+Professional AC Duct Cleaning & Indoor Air Quality Solutions delivering cleaner air, healthier spaces, and efficient HVAC systems for over 18 years.
+
+Specialized Centralized AC Duct Cleaning
+High-Technical Power Cleaning Machines
+Improves Indoor Air Quality
+Reduces Dust, Allergens & Bacteria
+Trusted Industry Experience
+
+Book Service  |  Call  now (same)
+
+
+#ABOUT US
+We are a specialized AC Duct Cleaning and Indoor Air Quality solutions company dedicated to creating cleaner, healthier indoor environments through advanced HVAC hygiene services. Our expertise is not in routine air-conditioning servicing, but in deep, technical duct cleaning designed specifically for centralized air-conditioning systems.
+
+Over the years, we have built our reputation by focusing on what truly matters — the quality of air people breathe every day. Dust, allergens, bacteria, and microbial contaminants hidden inside duct systems continuously circulate through indoor spaces, silently affecting comfort, productivity, and health.
+
+With more than 18 years of industry experience, a highly trained technical team, and the use of high-power, industrial-grade cleaning machines, we deliver results that go far beyond surface cleaning. Every project is approached with precision, safety, and a strong commitment to long-term indoor air quality improvement.
+OUR MISSION
+Our mission is to protect health and enhance quality of life by delivering professional AC duct cleaning and indoor air quality solutions that meet the highest technical and hygiene standards.
+
+We aim to remove harmful airborne contaminants from centralized HVAC systems using advanced equipment, proven methods, and skilled expertise, ensuring clean air circulation in residential, commercial, and industrial environments. We strive to make pure air a standard, not a luxury.
+OUR VISION
+Our vision is to be recognized as a trusted global leader in HVAC hygiene and indoor air quality solutions, setting new benchmarks for cleanliness, safety, and innovation.
+
+We aspire to redefine how people think about air-conditioning systems — not just as cooling equipment, but as critical contributors to health and wellbeing. Through advanced technology and future-ready solutions, we envision indoor spaces that deliver clean, fresh, and healthy air.
+
+
+#OUR SERVICES
+[img=./img_sel/1.png] AC Duct Cleaning – Deep cleaning of centralized duct systems using high-power equipment.
+
+[img=./img_sel/2.png] Indoor Air Quality Solutions – Inspection, airflow assessment, and hygiene improvement services.
+
+[img=./img_sel/3.png] HVAC System Cleaning – AHU, FCU, blower, coil, diffuser, and grille cleaning.
+
+[img=./img_sel/4.png] AC Maintenance & Technical Support – Performance and system lifespan support.
+
+[img=./img_sel/5.png] Duct Disinfection & Sanitization – Elimination of bacteria, mold, and odors.
+
+#LANDING PAGE
