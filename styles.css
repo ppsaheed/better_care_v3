@@ -441,6 +441,122 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--gray-600);
 }
 
+/* Protocols Section */
+.protocols-list {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.protocol-card {
+    display: flex;
+    align-items: center;
+    background-color: #f0f4f8;
+    border-radius: var(--border-radius-lg);
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+    transition: var(--transition);
+}
+
+.protocol-card.dark {
+    background-color: var(--navy-blue);
+    color: var(--white);
+}
+
+.protocol-image {
+    flex: 1;
+    height: 100%;
+}
+
+.protocol-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.protocol-content {
+    flex: 1;
+    padding: 3rem;
+}
+
+.protocol-badge {
+    display: inline-block;
+    background-color: var(--navy-blue);
+    color: var(--white);
+    padding: 6px 16px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    letter-spacing: 0.5px;
+}
+
+.protocol-card.dark .protocol-badge {
+    background-color: var(--fresh-green);
+    color: var(--navy-blue);
+}
+
+.protocol-content h3 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.protocol-card.dark h3 {
+    color: var(--white);
+}
+
+.protocol-content p {
+    color: var(--gray-600);
+    margin-bottom: 2rem;
+    font-size: 1.05rem;
+}
+
+.protocol-card.dark p {
+    color: var(--gray-200);
+}
+
+.protocol-checklist {
+    list-style: none;
+    padding: 0;
+}
+
+.protocol-checklist li {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 1rem;
+    font-weight: 500;
+}
+
+.protocol-checklist i {
+    color: var(--fresh-green);
+    font-size: 1.2rem;
+}
+
+/* Responsive Protocols */
+@media (max-width: 992px) {
+    .protocol-card, .protocol-card.dark {
+        flex-direction: column;
+    }
+    
+    .protocol-card.dark {
+        flex-direction: column-reverse;
+    }
+
+    .protocol-image, .protocol-content {
+        width: 100%;
+    }
+    
+    .protocol-content {
+        padding: 2.5rem 1.5rem;
+    }
+    
+    .protocol-content h3 {
+        font-size: 1.75rem;
+    }
+}
+
 /* About Section */
 .about-grid {
     display: grid;
